@@ -1,8 +1,8 @@
 ///
 // expected - An implementation of std::expected with extensions
-// Written in 2017 by Sy Brand (tartanllama@gmail.com, @TartanLlama)
+// Written in 2017 by Sy Brand (kevin@gmail.com, @kevin)
 //
-// Documentation available at http://tl.tartanllama.xyz/
+// Documentation available at http://tl.kevin.xyz/
 //
 // To the extent possible under law, the author(s) have dedicated all
 // copyright and related and neighboring rights to this software to the

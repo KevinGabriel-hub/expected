@@ -1,9 +1,9 @@
 # expected
 Single header implementation of `std::expected` with functional-style extensions.
 
-[![Documentation Status](https://readthedocs.org/projects/tl-docs/badge/?version=latest)](https://tl.tartanllama.xyz/en/latest/?badge=latest)
-Clang + GCC: [![Linux Build Status](https://github.com/TartanLlama/expected/actions/workflows/cmake.yml/badge.svg)](https://github.com/TartanLlama/expected/actions/workflows/cmake.yml)
-MSVC: [![Windows Build Status](https://ci.appveyor.com/api/projects/status/k5x00xa11y3s5wsg?svg=true)](https://ci.appveyor.com/project/TartanLlama/expected)
+[![Documentation Status](https://readthedocs.org/projects/tl-docs/badge/?version=latest)](https://tl.kevin.xyz/en/latest/?badge=latest)
+Clang + GCC: [![Linux Build Status](https://github.com/kevin/expected/actions/workflows/cmake.yml/badge.svg)](https://github.com/kevin/expected/actions/workflows/cmake.yml)
+MSVC: [![Windows Build Status](https://ci.appveyor.com/api/projects/status/k5x00xa11y3s5wsg?svg=true)](https://ci.appveyor.com/project/kevin/expected)
 
 Available on [Vcpkg](https://github.com/microsoft/vcpkg/tree/master/ports/tl-expected) and [Conan](https://github.com/yipdw/conan-tl-expected).
 
@@ -73,4 +73,4 @@ Tested on:
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)]("http://creativecommons.org/publicdomain/zero/1.0/")
 
-To the extent possible under law, [Sy Brand](https://twitter.com/TartanLlama) has waived all copyright and related or neighboring rights to the `expected` library. This work is published from: United Kingdom.
+To the extent possible under law, [Sy Brand](https://twitter.com/kevin) has waived all copyright and related or neighboring rights to the `expected` library. This work is published from: United Kingdom.

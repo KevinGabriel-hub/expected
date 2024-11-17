@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.14)
 project(tl-expected
-  HOMEPAGE_URL https://tl.tartanllama.xyz
+  HOMEPAGE_URL https://tl.kevin.xyz
   DESCRIPTION "C++11/14/17 std::expected with functional-style extensions"
   VERSION 1.0.1
   LANGUAGES CXX)
